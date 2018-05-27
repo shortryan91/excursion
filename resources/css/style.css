@@ -26,3 +26,11 @@ p {
   color: gray;
   font-size: 21px;
 }
+
+.copyRight {
+  text-align: right;
+}
+
+div {
+  margin-top: 20px;
+}
